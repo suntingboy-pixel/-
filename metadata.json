@@ -1,0 +1,5 @@
+{
+  "name": "SmartValue Invest",
+  "description": "A comprehensive stock analysis tool leveraging Gemini 2.5 to provide real-time data, value investing metrics (Graham, Schloss, Fisher), and strategic buy/sell recommendations for A-Share, HK, and US markets.",
+  "requestFramePermissions": []
+}
